@@ -17,11 +17,11 @@
 用户：注册登录、首页、店铺、商品、扶贫政策、爱心箱、自然风光介绍、个人中心、购物车、订单管理、收藏
 
 ### 完整项目获取
-
 通过网盘分享的文件：扶贫助农管理系统
 
-链接: https://pan.baidu.com/s/1h5MUhyKxRx9hxxaClXA-pQ?pwd=iujh 提取码: iujh
+链接: https://pan.baidu.com/s/1USA1h8xPqe8w28ItPLmdUw?pwd=6mmu 提取码: 6mmu
 --来自百度网盘超级会员v4的分享
+
 
 通过网盘分享的文件：工具包
 
